@@ -1,0 +1,10 @@
+# Binary executable
+CHARLESBANKINGSYSTEM
+
+# Data files and logs
+CHARLES_ACCOUNTS.dat
+CHARLES_TRANSACTIONS.log
+
+# Editor swap files
+*~
+*.swp
